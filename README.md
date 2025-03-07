@@ -38,3 +38,6 @@ These insights help improve employee retention, morale, and overall productivity
 - Step 7 : KPI Card visuals were also added to the Canvas
 
   ![Image](https://github.com/user-attachments/assets/e57ccfdc-b8f4-463e-9440-56f39f4bb014)
+
+  ## Summary
+The Employee Survey Insights Dashboard provides a data-driven approach to understanding employee sentiment and engagement. By visualizing survey responses across key areas such as job satisfaction, work-life balance, and salary perception, this dashboard empowers HR teams and leadership to make informed decisions that enhance workplace culture. The insights gathered support initiatives aimed at boosting employee morale, retention, and overall productivity. With interactive filters and KPI tracking, this Power BI dashboard serves as a powerful tool for continuous improvement and strategic workforce planning.
