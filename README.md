@@ -8,7 +8,7 @@ The Employee Survey Insights Dashboard is designed to provide a comprehensive an
 
 The Employee Survey Insights Dashboard is designed to analyze employee feedback and assess overall job satisfaction.
 
-## Snapshop of Dashboard (Power BI Service)
+## Snapshot of Dashboard (Power BI Service)
 
 ![Image](https://github.com/user-attachments/assets/08a315ff-de18-4dc0-94d4-bec38346a12f)
 
